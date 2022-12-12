@@ -3,3 +3,4 @@ dash-renderer
 dash-auth
 pandas
 pandas-datareader==0.6.0
+gunicorn
